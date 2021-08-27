@@ -6,7 +6,7 @@ This challenege was a refactor project for which starter code was provided for t
 Link to deployed application:</br>
 https://benrowen5.github.io/Homework-Week1/ </br></br>
 
-Screensheet:</br>
+Screenshot:</br>
 ![Horiseon_Screenshot](https://user-images.githubusercontent.com/79202800/131133908-52714c6f-62da-4536-8247-b5dbac42aa28.png)
 
 
