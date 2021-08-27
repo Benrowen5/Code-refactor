@@ -7,7 +7,7 @@ Link to deployed application:</br>
 https://benrowen5.github.io/Homework-Week1/ </br></br>
 
 Screensheet:</br>
-<img src="./assets/images/Horiseon-screenshot"></br></br>
+<img src="./assets/images/Horiseon-screenshot.png"></br></br>
 
 
 
