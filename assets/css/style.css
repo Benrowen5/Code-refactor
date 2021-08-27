@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-/* STYLE FOR HEADER */
+/* STYLE FOR HEADER / NAV BAR */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -31,6 +31,11 @@ header h1 {
 
 header span {
     color: #7a8471;
+}
+
+header h1 a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 nav {
@@ -54,7 +59,7 @@ nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-/* END STYLE FOR HEADER */
+/* END STYLE FOR HEADER / NAV BAR */
 
 /* STYLE FOR FOOTER */
 footer {
@@ -66,9 +71,8 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/* END STYLE FOR FOOTER */
 
-/* STYLE FOR HERO */
+/* STYLE FOR HERO IMAGE */
 .hero {
     height: 800px;
     width: 100%;
@@ -78,7 +82,7 @@ footer h2 {
     background-position: center;
 }
 
-/* STYLE FOR CONTENT ARTICLES */
+/* STYLE FOR CONTENT SECTION */
 .content {
     width: 75%;
     display: inline-block;
@@ -115,11 +119,12 @@ footer h2 {
     float: right;
     margin-left: 25px;
 }
+/* END STYLE FOR CONTENT SECTION */
 
 /* STYLES FOR BENEFITS SECTION */
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 20px 20px 0 20px;
     clear: both;
     float: right;
     width: 20%;
