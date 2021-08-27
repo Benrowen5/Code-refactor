@@ -7,7 +7,8 @@ Link to deployed application:</br>
 https://benrowen5.github.io/Homework-Week1/ </br></br>
 
 Screensheet:</br>
-<img src="./assets/images/Horiseon-screenshot.png"></br></br>
+![Horiseon_Screenshot](https://user-images.githubusercontent.com/79202800/131133908-52714c6f-62da-4536-8247-b5dbac42aa28.png)
+
 
 
 
